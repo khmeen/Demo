@@ -1,1 +1,1 @@
-# Demo - pierwsza oplikacja w Spring
+# Demo - pierwsza aplikacja w Spring
